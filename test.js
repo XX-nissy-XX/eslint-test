@@ -1,3 +1,3 @@
-console.log('test');
-console.log('--------------------------------------------------------------------------------------');
-console.log('applu');
+var num;
+var notUsedNum;
+num = 100;
